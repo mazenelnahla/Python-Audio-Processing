@@ -11,8 +11,8 @@ This Program is made by:
 
 NOTE:
 ---------------
-**These are some Libraries you must install.**
-//////////////////////////////////////////////////  
+**These are some Libraries you must install.**  
+//////////////////////////////////////////////////   
 Install microsoft c++ build tools from Microsoft website  
 
 	pip install pipwin  
