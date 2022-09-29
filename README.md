@@ -1,13 +1,15 @@
 This Program is made by:
+---------------
 1.Mazen Elnahla:-
 	E-mail: mazen.elnahla@gmail.com
 	Linkedin: mazen.elnahla
-
+\n
 2.Karim Nady:-
 	E-mail: 
 	Linkedin: 
 
 NOTE:
+---------------
 These are some Libraries you must install.
 ///////////////////////////////////////////
 Install microsoft c++ build tools from Microsoft website
