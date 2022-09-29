@@ -3,11 +3,11 @@ This Program is made by:
 ---------------
 1.**Mazen Elnahla:-**  
 > E-mail: mazen.elnahla@gmail.com  
-> Linkedin: [mazenelnahla] (https://www.linkedin.com/in/mazenelnahla/)  
+> Linkedin: [mazenelnahla](https://www.linkedin.com/in/mazenelnahla/)  
 
 2.**Karim Nady:-**  
 > E-mail: kareemnady65@gmail.com  
-> Linkedin: [karim-nady-q000p] (https://www.linkedin.com/in/karim-nady-q000p)  
+> Linkedin: [karim-nady-q000p](https://www.linkedin.com/in/karim-nady-q000p)  
 
 NOTE:
 ---------------
